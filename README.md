@@ -4,7 +4,7 @@
 
 # ForgeMindAI
 
-This repository is part of the [ForgeMindAI](https://www.youtube.com/@ForgeMindAI) YouTube channel, where we explore practical AI automation tools and workflows. Here, you'll find a sample **n8n workflow** to kickstart your own AI-powered automation.
+This repository is part of the [ForgeMindAI](https://www.youtube.com/@ForgeMindAI) YouTube channel, where we explore practical AI automation tools and workflows. You'll find a sample **n8n workflow** to kickstart your AI-powered automation.
 
 ## 🛠️ What's Included
 
@@ -13,11 +13,11 @@ This repository is part of the [ForgeMindAI](https://www.youtube.com/@ForgeMindA
 
 ## 🎥 Watch the Tutorial
 
-Check out the full tutorial on the ForgeMindAI YouTube channel: [[YouTube Link Here](https://youtu.be/uwmXoEaL34s)]
+Check out the full tutorial on the ForgeMindAI YouTube channel: [[YouTube Link Here](https://youtu.be/ZqWQwbzvrac)]
 
 ## To import the workflow to your n8n
-* go to the 3 dots in the top right corner after creating a workflow.
-* Select import from file and select this file. (ollama-calculator-agent.json)
+* Go to the 3 dots in the top right corner after creating a workflow.
+* Select import from file and select this file. (Gmail_Classifier.json)
   ![N8N import](./assets/import_workflow.png)
 
 For any queries on this repo, contact us on the following social handles:
